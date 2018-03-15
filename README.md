@@ -1,2 +1,2 @@
 # branding
-Designs, artwork, and mockups for VigorOS.
+Designs, artwork, and mockups for Igneos.
